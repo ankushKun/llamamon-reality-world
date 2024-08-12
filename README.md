@@ -1,6 +1,6 @@
 # Llamamon Reality World
 
-Submission for [aoTheComputer](https:/x.com/aoTheComputer) Reality Protocol world quest
+Submission for [aoTheComputer](https://x.com/aoTheComputer) Reality Protocol world quest
 
 ![map](./assets/full_map.png)
 
